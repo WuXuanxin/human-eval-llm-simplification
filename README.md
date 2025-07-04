@@ -12,9 +12,21 @@ To obtain the complete evaluation data, please:
 2. After obtaining permission, contact the author:  
   Xuanxin Wu [xuanxin.wu@ist.osaka-u.ac.jp](mailto:xuanxin.wu@ist.osaka-u.ac.jp)
 
-Please refer to our paper for details of corpus creation: 
-🔗 [arXiv:2403.04963](https://arxiv.org/abs/2403.04963)
-> 📜 Accepted at *ACM Transactions on Intelligent Systems and Technology* (to appear)  
-
-
 Annotation files are available in the `/annotation` directory. Please refer to the README file for more information.
+
+# Please cite the following paper if you use the above resources for your research.
+```
+@article{10.1145/3744744,
+author = {WU, Xuanxin and Arase, Yuki},
+title = {An In-depth Evaluation of Large Language Models in Sentence Simplification with Error-based Human Assessment},
+year = {2025},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+issn = {2157-6904},
+url = {https://doi.org/10.1145/3744744},
+doi = {10.1145/3744744},
+journal = {ACM Trans. Intell. Syst. Technol.},
+note = {Just Accepted},
+month = jun
+}
+```
