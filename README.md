@@ -16,17 +16,22 @@ Annotation files are available in the `/annotation` directory. Please refer to t
 
 # Please cite the following paper if you use the above resources for your research.
 ```
-@article{10.1145/3744744,
-author = {WU, Xuanxin and Arase, Yuki},
-title = {An In-depth Evaluation of Large Language Models in Sentence Simplification with Error-based Human Assessment},
-year = {2025},
+@article{wu-2026-humaneval-simp,
+author = {Wu, Xuanxin and Arase, Yuki},
+title = {An In-Depth Evaluation of Large Language Models in Sentence Simplification with Error-Based Human Assessment},
+year = {2026},
+issue_date = {August 2026},
 publisher = {Association for Computing Machinery},
 address = {New York, NY, USA},
+volume = {17},
+number = {4},
 issn = {2157-6904},
 url = {https://doi.org/10.1145/3744744},
 doi = {10.1145/3744744},
 journal = {ACM Trans. Intell. Syst. Technol.},
-note = {Just Accepted},
-month = jun
+month = apr,
+articleno = {82},
+numpages = {25},
+keywords = {large language models, evaluation, sentence simplification}
 }
 ```
